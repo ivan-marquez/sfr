@@ -1,0 +1,33 @@
+{
+  "name": "sfr",
+  "version": "1.0.0",
+  "description": "Smart File Reconciliation service using the OCR API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Marquez/sfr.git"
+  },
+  "keywords": [
+    "OCR"
+  ],
+  "author": "Ivan Marquez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ivan-Marquez/sfr/issues"
+  },
+  "homepage": "https://github.com/Ivan-Marquez/sfr#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "implement-js": "0.0.31",
+    "lodash": "^4.17.15",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2"
+  }
+}
