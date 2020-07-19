@@ -25,7 +25,7 @@
     "express": "^4.17.1",
     "form-data": "^3.0.0",
     "implement-js": "0.0.31",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lowdb": "^1.0.0",
     "morgan": "^1.9.1",
     "multer": "^1.4.2"
